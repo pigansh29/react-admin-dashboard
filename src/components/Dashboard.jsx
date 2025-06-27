@@ -12,7 +12,6 @@ const Dashboard = () => {
     { user: "Tanmay Jain", action: "Completed task #123", time: "6 hours ago" },
     { user: "Shreyas Lyer", action: "Added new comment", time: "8 hours ago" },
   ]
-
   return (
     <div className="dashboard-container">
       <div className="stats-grid">
